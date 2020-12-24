@@ -1,0 +1,13 @@
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.exe
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.deps.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.runtimeconfig.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.runtimeconfig.dev.json
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\bin\Debug\netcoreapp3.1\Azerfon.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.csprojAssemblyReference.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.AssemblyInfoInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.AssemblyInfo.cs
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.csproj.CoreCompileInputs.cache
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.dll
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.pdb
+C:\Users\TheGaribov\Desktop\PragmatechEducation\C#\Tasks\c-sharp-task-2\Azerfon\obj\Debug\netcoreapp3.1\Azerfon.genruntimeconfig.cache

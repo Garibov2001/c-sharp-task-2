@@ -8,10 +8,17 @@ namespace Azerfon
     {
         private string _interviewZoomUrl;
         private string _interviewLocation;
-        public string Name { get; set; }
-        public string LastName { get; set; }
-
+        public string FullName { get; set; }
         public string CertificateName { get; set; } = null;
+
+        //public Candidates(string argFullName, string argCert =null, string argInterviewLocation = null, string argInterviewZoom = null)
+        //{
+        //    FullName = argFullName;
+        //    CertificateName = argCert;
+        //    InterviewLocation = argInterviewLocation;
+        //    InterviewZoomURL = argInterviewZoom;
+        //}
+
 
         public string InterviewLocation
         {

@@ -7,7 +7,7 @@ namespace Azerfon
 {
     class AzerfoneHR
     {       
-        public string HR_Name { get; set; }
+        public string HR_FullName { get; set; }
         public AzerfonCompany CompanyObj { get; set; }
 
     }

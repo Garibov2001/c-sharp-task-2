@@ -7,13 +7,13 @@ namespace Azerfon
 {
     class AzerfoneVacancy
     {
-        public string job_name;
-        public decimal job_salary;
+        public string Job_name { get; set; }
+        public decimal Job_salary { get; set; }
         public AzerfoneHR HR { get; set; }
-        private List<Candidates> candidate_list = new List<Candidates>();
+        public List<Candidates> candidate_list { get; set; } = new List<Candidates>();
 
 
-        // Whole candidates who either cert or without cert.
+        // Whole candidates who has either cert or not cert.
         public string GetAllCandidates()
         {
             return JsonSerializer.Serialize(candidate_list);
